@@ -1,6 +1,8 @@
 package com.codewriters.fdiba.array;
 
 /**
+ * Prints a string array using a foreach loop.
+ *
  * @author Tsvetan Dimitrov <tsvetan.dimitrov23@gmail.com>
  * @since 21-Jan-2016
  */
@@ -17,7 +19,7 @@ public class DaysOfWeek {
                 "Sunday"
         };
 
-        for(String day : daysOfWeek) {
+        for (String day : daysOfWeek) {
             System.out.println(day);
         }
     }

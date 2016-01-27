@@ -1,6 +1,8 @@
 package com.codewriters.fdiba.array;
 
 /**
+ * Reverse the elements of an array.
+ *
  * @author Tsvetan Dimitrov <tsvetan.dimitrov23@gmail.com>
  * @since 21-Jan-2016
  */

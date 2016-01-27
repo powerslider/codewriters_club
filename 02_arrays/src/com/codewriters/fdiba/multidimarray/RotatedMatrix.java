@@ -1,6 +1,8 @@
-package com.codewriters.fdiba.matrix;
+package com.codewriters.fdiba.multidimarray;
 
 /**
+ * Rotate a matrix by setting its columns as rows.
+ *
  * @author Tsvetan Dimitrov <tsvetan.dimitrov23@gmail.com>
  * @since 21-Jan-2016
  */

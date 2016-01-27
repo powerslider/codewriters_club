@@ -1,6 +1,8 @@
-package com.codewriters.fdiba.matrix;
+package com.codewriters.fdiba.multidimarray;
 
 /**
+ * Find the 2x2 matrix with the biggest sum.
+ *
  * @author Tsvetan Dimitrov <tsvetan.dimitrov23@gmail.com>
  * @since 21-Jan-2016
  */
@@ -32,6 +34,5 @@ public class Max2x2MatrixSum {
         }
 
         System.out.println("Max 2x2 sum: " + maxSum);
-
     }
 }

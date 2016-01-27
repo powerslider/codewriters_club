@@ -1,8 +1,10 @@
-package com.codewriters.fdiba.matrix;
+package com.codewriters.fdiba.multidimarray;
 
 import java.util.Scanner;
 
 /**
+ * Read console input element by element until the entire matrix is full.
+ *
  * @author Tsvetan Dimitrov <tsvetan.dimitrov23@gmail.com>
  * @since 21-Jan-2016
  */

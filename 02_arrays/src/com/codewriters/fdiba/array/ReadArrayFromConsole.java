@@ -3,6 +3,8 @@ package com.codewriters.fdiba.array;
 import java.util.Scanner;
 
 /**
+ * Read console input element by element until the entire array is full.
+ *
  * @author Tsvetan Dimitrov <tsvetan.dimitrov23@gmail.com>
  * @since 21-Jan-2016
  */
@@ -22,5 +24,6 @@ public class ReadArrayFromConsole {
         for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i]);
         }
+
     }
 }
